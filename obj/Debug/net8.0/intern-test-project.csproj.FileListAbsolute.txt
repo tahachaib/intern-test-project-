@@ -28,3 +28,4 @@ D:\OneDrive - Expaceo SAS\Documents\Taha project\intern-test-project\obj\Debug\n
 D:\OneDrive - Expaceo SAS\Documents\Taha project\intern-test-project\obj\Debug\net8.0\intern-test-project.pdb
 D:\OneDrive - Expaceo SAS\Documents\Taha project\intern-test-project\obj\Debug\net8.0\intern-test-project.genruntimeconfig.cache
 D:\OneDrive - Expaceo SAS\Documents\Taha project\intern-test-project\obj\Debug\net8.0\ref\intern-test-project.dll
+D:\OneDrive - Expaceo SAS\Documents\Taha project\intern-test-project\obj\Debug\net8.0\intern-test-project.sourcelink.json
